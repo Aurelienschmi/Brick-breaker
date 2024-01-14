@@ -1,0 +1,3 @@
+C:/Users/schmi/CLionProjects/BrickBreaker/cmake-build-debug/CMakeFiles/BrickBreaker.dir
+C:/Users/schmi/CLionProjects/BrickBreaker/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/schmi/CLionProjects/BrickBreaker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
